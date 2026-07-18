@@ -3,7 +3,7 @@
 ## About Me
 * **Full Name:** Nguyen Quyet Thang
 * **Nickname:** Yuu
-* **Current Status:** A freshman at HUMG, passionate about Spatial Data Science (GIS).
+* **Current Status:** An incoming freshman at HUMG, passionate about Spatial Data Science (GIS).
 
 ## My Daily Goals
 * Practice English every day to study well.
