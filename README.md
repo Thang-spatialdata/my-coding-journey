@@ -1,24 +1,33 @@
-# My Coding Journey
+# Hi, I'm Nguyen Quyet Thang (Yuu) 👋
 
-## About Me
-* **Full Name:** Nguyen Quyet Thang
-* **Nickname:** Yuu
-* **Current Status:** An incoming freshman at HUMG, passionate about Spatial Data Science (GIS).
+🎓 Incoming GIS student at HUMG
 
-## My Daily Goals
-* Practice English every day to study well.
-* Learn Python and SQL to reach my biggest dreams.
-* Stay healthy, eat breakfast, and get enough sleep!
+🌍 Interested in:
+- GIS
+- Spatial Data Science
+- Remote Sensing
+- AI for Earth Observation
 
-## Today's Achievement
-* Wrote my first Python code with `for` loops and `if-else` to check GIS station data.
-* Created my first GitHub repository to save my code.
- ### Day 13 - Learning Python Dictionary for GIS
+## Current Learning
+- Python 🐍
+- SQL 🗄️
+- GIS 🌎
+- English 🇬🇧
 
-Today I learned:
-* Create and update a dictionary (e.g., adding population data)
-* Handle errors when accessing missing keys
-* Use for loops with `.keys()`, `.values()`, and `.items()` to print geographic data attributes
-* Combine f-strings with dictionary loops for clean output
+## Goals
+- Build GIS applications
+- Publish international research
+- Earn a master's or Ph.D. scholarship abroad
 
-Still learning, but making progress every day. 🚀💐
+## Latest Update
+
+### Day 13 – Python Dictionary
+✅ Learned:
+- Create and update dictionaries
+- Handle missing keys
+- Use `.keys()`, `.values()`, and `.items()`
+- Display data with f-strings
+
+💻 Built a simple Python program to manage GIS station data.
+
+🚀 Progress: Day 13/100
