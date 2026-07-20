@@ -2,7 +2,7 @@
 
 # Exercise 1: Dictionary
 city = {
-    "name": "Hung Yen",
+    "name": "Ha Noi",
     "population": 125000,
     "area": 930.2
 }
@@ -13,7 +13,7 @@ print("Area:", city["area"])
 
 # Exercise 2: Lists + for loop
 cities = [
-    "Hung Yen",
+    "Thanh Hoa",
     "Ha Noi",
     "Hai Phong",
     "Nam Dinh"
@@ -32,7 +32,7 @@ print(population_density(125000, 930.2))
 
 # Boss Challenge
 province = {
-    "name": "Hung Yen",
+    "name": "Ha Noi",
     "districts": 10,
     "population": 1200000
 }
