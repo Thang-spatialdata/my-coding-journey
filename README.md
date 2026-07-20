@@ -21,13 +21,15 @@
 
 ## Latest Update
 
-### Day 13 – Python Dictionary
+### Day 14 – Python Lists & GIS Practice
+
 ✅ Learned:
-- Create and update dictionaries
-- Handle missing keys
-- Use `.keys()`, `.values()`, and `.items()`
-- Display data with f-strings
+- Creating and using Python lists
+- Looping through lists with `for`
+- Creating dictionaries for GIS data
+- Writing simple functions with `def`
+- Calculating population density
 
-💻 Built a simple Python program to manage GIS station data.
+💻 Completed several GIS-style Python exercises.
 
-🚀 Progress: Day 13/100
+🚀 Progress: Python Journey — Day 14/100
