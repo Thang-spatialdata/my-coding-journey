@@ -21,15 +21,15 @@
 
 ## Latest Update
 
-### Day 14 – Python Lists & GIS Practice
+### Day 15 – Python List Methods
 
 ✅ Learned:
-- Creating and using Python lists
-- Looping through lists with `for`
-- Creating dictionaries for GIS data
-- Writing simple functions with `def`
-- Calculating population density
+- Using `append()` to add items
+- Using `remove()` to delete items
+- Using `len()` to count list elements
+- Using `in` to check if an item exists
+- Using `for` loops with Python lists
 
-💻 Completed several GIS-style Python exercises.
+💻 Completed Python list exercises and the Boss Challenge
 
-🚀 Progress: Python Journey — Day 14/100
+🚀 Progress: Python Journey — Day 15/100
