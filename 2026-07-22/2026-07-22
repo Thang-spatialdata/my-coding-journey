@@ -1,0 +1,19 @@
+# Day 15 - Python Lists Methods
+
+## Today I Learned
+- Using append() to add new items
+- Using remove() to delete items
+- Using len() to count elements
+- Using in to check data
+- Managing GIS survey stations
+
+## Practice
+- Added GIS survey stations
+- Removed unnecessary data
+- Counted survey locations
+- Checked whether a station exists
+- Completed the GIS Boss Challenge
+
+## Status
+
+✅ Completed
