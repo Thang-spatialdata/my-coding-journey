@@ -21,15 +21,15 @@
 
 ## Latest Update
 
-### Day 15 – Python List Methods
+### Day 16 – Advanced List Methods
 
 ✅ Learned:
-- Using `append()` to add items
-- Using `remove()` to delete items
-- Using `len()` to count list elements
-- Using `in` to check if an item exists
-- Using `for` loops with Python lists
+- Using `extend()` to merge lists
+- Using `insert()` to add items at a specific position
+- Using `pop()` to remove items by index
+- Using `index()` to find an item's position
+- Using `count()` to count occurrences
 
-💻 Completed Python list exercises and the Boss Challenge
+💻 Completed list method exercises and built a Mini GIS program using a list of dictionaries
 
-🚀 Progress: Python Journey — Day 15/100
+🚀 Progress: Python Journey — Day 16/100
