@@ -21,15 +21,22 @@
 
 ## Latest Update
 
-### Day 16 – Advanced List Methods
+Day 17 – Sorting and Statistics with Lists
 
 ✅ Learned:
-- Using `extend()` to merge lists
-- Using `insert()` to add items at a specific position
-- Using `pop()` to remove items by index
-- Using `index()` to find an item's position
-- Using `count()` to count occurrences
 
-💻 Completed list method exercises and built a Mini GIS program using a list of dictionaries
+Using sort() to sort a list in place
 
-🚀 Progress: Python Journey — Day 16/100
+Using sorted() to create a new sorted list
+
+Using reverse() to reverse a list
+
+Using min(), max(), and sum() to analyze numerical data
+
+💻 Completed exercises on sorting, reversing, and analyzing lists
+
+🌍 Built Mini GIS programs to process temperature and city data
+
+🏆 Completed the Boss Challenge by analyzing weather station temperatures (highest, lowest, and average)
+
+🚀 Progress: Python Journey — Day 17/100
