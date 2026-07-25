@@ -20,22 +20,22 @@
 - Earn a master's or Ph.D. scholarship abroad
 
 ## Latest Update
-# Day 18 - index() and count()
 
-## ✅ Learned
+### Day 19 - enumerate()
 
-- Using `index()` to find the position of an item
-- Using `count()` to count how many times an item appears
-- Checking whether an item exists before using `index()`
-- Practicing with Python lists
-- Applying list methods in Mini GIS examples
+✅ Learned
 
-## 💻 Completed
+- Using enumerate() to get both the index and value while looping
+- Using enumerate(start=1) to start numbering from 1
+- Printing numbered lists
+- Combining enumerate() with if statements
+- Applying enumerate() in Mini GIS examples
 
-- index() exercises
-- count() exercises
+💻 Completed
+
+- enumerate() exercises
+- Numbered list practice
 - Mini GIS
 - Boss Challenge
-- Bonus Challenge
 
-🚀 Progress: Python Journey — Day 18/100
+🚀 Progress: Python Journey — Day 19/100
