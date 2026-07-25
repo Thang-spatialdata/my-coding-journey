@@ -20,23 +20,22 @@
 - Earn a master's or Ph.D. scholarship abroad
 
 ## Latest Update
+# Day 18 - index() and count()
 
-Day 17 – Sorting and Statistics with Lists
+## ✅ Learned
 
-✅ Learned:
+- Using `index()` to find the position of an item
+- Using `count()` to count how many times an item appears
+- Checking whether an item exists before using `index()`
+- Practicing with Python lists
+- Applying list methods in Mini GIS examples
 
-Using sort() to sort a list in place
+## 💻 Completed
 
-Using sorted() to create a new sorted list
+- index() exercises
+- count() exercises
+- Mini GIS
+- Boss Challenge
+- Bonus Challenge
 
-Using reverse() to reverse a list
-
-Using min(), max(), and sum() to analyze numerical data
-
-💻 Completed exercises on sorting, reversing, and analyzing lists
-
-🌍 Built Mini GIS programs to process temperature and city data
-
-🏆 Completed the Boss Challenge by analyzing weather station temperatures (highest, lowest, and average)
-
-🚀 Progress: Python Journey — Day 17/100
+🚀 Progress: Python Journey — Day 18/100
