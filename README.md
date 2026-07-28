@@ -21,21 +21,24 @@
 
 ## Latest Update
 
-### Day 19 - enumerate()
+Day 21 - Set in Python
 
 ✅ Learned
 
-- Using enumerate() to get both the index and value while looping
-- Using enumerate(start=1) to start numbering from 1
-- Printing numbered lists
-- Combining enumerate() with if statements
-- Applying enumerate() in Mini GIS examples
+- Understanding Set data structure in Python
+- Removing duplicate data using Set
+- Adding and removing elements with Set methods
+- Using Set operations:
+  - Union ("|")
+  - Intersection ("&")
+  - Difference ("-")
+- Applying Set in GIS data comparison and management
 
 💻 Completed
 
-- enumerate() exercises
-- Numbered list practice
-- Mini GIS
-- Boss Challenge
+- Set exercises
+- Duplicate station data cleaning practice
+- GIS Station Update Analysis (Mini GIS)
+- GIS Monitoring System Analyzer (Boss Challenge)
 
-🚀 Progress: Python Journey — Day 19/100
+🚀 Progress: Python Journey — Day 21/100
