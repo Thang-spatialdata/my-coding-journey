@@ -19,26 +19,23 @@
 - Publish international research
 - Earn a master's or Ph.D. scholarship abroad
 
-## Latest Update
+### Latest Update
 
-Day 21 - Set in Python
+**Day 22 - Tuple**
 
 ✅ Learned
-
-- Understanding Set data structure in Python
-- Removing duplicate data using Set
-- Adding and removing elements with Set methods
-- Using Set operations:
-  - Union ("|")
-  - Intersection ("&")
-  - Difference ("-")
-- Applying Set in GIS data comparison and management
+- What a tuple is
+- Creating tuples with `()`
+- Accessing tuple elements by index
+- Understanding tuple immutability
+- Using tuple unpacking
+- Storing GIS coordinates with tuples
+- Working with a list of tuples
 
 💻 Completed
+- Tuple exercises
+- Unpacking practice
+- Mini GIS
+- Boss Challenge
 
-- Set exercises
-- Duplicate station data cleaning practice
-- GIS Station Update Analysis (Mini GIS)
-- GIS Monitoring System Analyzer (Boss Challenge)
-
-🚀 Progress: Python Journey — Day 21/100
+🚀 Progress: **Python Journey — Day 22/100**
