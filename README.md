@@ -21,21 +21,29 @@
 
 ### Latest Update
 
-**Day 22 - Tuple**
+**Day 23 - Module & Import
 
 ✅ Learned
-- What a tuple is
-- Creating tuples with `()`
-- Accessing tuple elements by index
-- Understanding tuple immutability
-- Using tuple unpacking
-- Storing GIS coordinates with tuples
-- Working with a list of tuples
+
+- What a **module** is
+- Basic `import`
+- `math.sqrt()`
+- `math.pow()`
+- `math.ceil()` and `math.floor()`
+- `math.pi`
+- `from ... import ...`
+- `random.randint()`
+- Creating reusable functions
 
 💻 Completed
-- Tuple exercises
-- Unpacking practice
+
+- Square root exercises
+- Power exercises
+- Ceiling & floor exercises
+- Circle area exercise
+- Random number exercise
+- Distance function exercise
 - Mini GIS
 - Boss Challenge
 
-🚀 Progress: **Python Journey — Day 22/100**
+🚀 Progress: **Python Journey — Day 23/100**
