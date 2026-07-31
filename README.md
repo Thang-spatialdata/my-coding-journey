@@ -21,29 +21,25 @@
 
 ### Latest Update
 
-**Day 23 - Module & Import
+**Day 24 - Module datetime & GIS Monitoring Log System**
 
 ✅ Learned
 
-- What a **module** is
-- Basic `import`
-- `math.sqrt()`
-- `math.pow()`
-- `math.ceil()` and `math.floor()`
-- `math.pi`
-- `from ... import ...`
-- `random.randint()`
-- Creating reusable functions
+* What datetime module is
+* Basic import: `from datetime import datetime`
+* Getting current date & time: `datetime.now()`
+* Extracting date and time separately: `.date()` and `.time()`
+* Formatting date & time strings: `.strftime("%d/%m/%Y %H:%M:%S")`
+* Time symbols: `%d`, `%m`, `%Y`, `%H`, `%M`, `%S`
+* Calculating time intervals (timedelta)
 
 💻 Completed
 
-- Square root exercises
-- Power exercises
-- Ceiling & floor exercises
-- Circle area exercise
-- Random number exercise
-- Distance function exercise
-- Mini GIS
-- Boss Challenge
+* Basic datetime initialization exercise
+* Date difference calculation exercise
+* Current month & year extraction exercise
+* Mini GIS — Observation Log
+* Boss Challenge — GIS Observation Log System
 
-🚀 Progress: **Python Journey — Day 23/100**
+🚀 Progress: Python Journey — Day 24/100
+
