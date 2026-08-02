@@ -21,25 +21,27 @@
 
 ### Latest Update
 
-**Day 24 - Module datetime & GIS Monitoring Log System**
+Day 25 - os
 
 ✅ Learned
 
-* What datetime module is
-* Basic import: `from datetime import datetime`
-* Getting current date & time: `datetime.now()`
-* Extracting date and time separately: `.date()` and `.time()`
-* Formatting date & time strings: `.strftime("%d/%m/%Y %H:%M:%S")`
-* Time symbols: `%d`, `%m`, `%Y`, `%H`, `%M`, `%S`
-* Calculating time intervals (timedelta)
+- Importing the "os" module
+- Using "os.path.exists()" to check files and folders
+- Building paths with "os.path.join()"
+- Listing files with "os.listdir()"
+- Using "os.path.basename()" and "os.path.splitext()"
+- Getting the current working directory with "os.getcwd()"
+- Applying file-system operations in GIS-style examples
 
 💻 Completed
 
-* Basic datetime initialization exercise
-* Date difference calculation exercise
-* Current month & year extraction exercise
-* Mini GIS — Observation Log
-* Boss Challenge — GIS Observation Log System
+- Path join exercises
+- File extension filter exercises
+- "check_file()" function exercises
+- "os.path.splitext()" practice
+- "os.path.exists()" practice
+- "os.getcwd()" practice
+- Mini GIS — File Check Report
+- Boss Challenge — Data Field Report
 
-🚀 Progress: Python Journey — Day 24/100
-
+🚀 Progress: Python Journey — Day 25/100
