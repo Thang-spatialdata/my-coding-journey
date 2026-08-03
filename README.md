@@ -21,27 +21,23 @@
 
 ### Latest Update
 
-Day 25 - os
+Day 26 - File Read & Write
 
 ✅ Learned
 
-- Importing the "os" module
-- Using "os.path.exists()" to check files and folders
-- Building paths with "os.path.join()"
-- Listing files with "os.listdir()"
-- Using "os.path.basename()" and "os.path.splitext()"
-- Getting the current working directory with "os.getcwd()"
-- Applying file-system operations in GIS-style examples
+- Writing text files with "open(..., "w")"
+- Reading files with "read()" and "readlines()"
+- Cleaning lines using ".strip()"
+- Splitting CSV-style data using ".split(",")"
+- Appending data with "open(..., "a")"
+- Processing GIS-style station logs from text files
 
 💻 Completed
 
-- Path join exercises
-- File extension filter exercises
-- "check_file()" function exercises
-- "os.path.splitext()" practice
-- "os.path.exists()" practice
-- "os.getcwd()" practice
-- Mini GIS — File Check Report
-- Boss Challenge — Data Field Report
+- Write station data to a text file
+- Read and clean file lines
+- Parse station name and temperature from CSV text
+- Mini GIS — Station Log Writer
+- Boss Challenge — Raw Data Cleaner
 
-🚀 Progress: Python Journey — Day 25/100
+🚀 Progress: Python Journey — Day 26/100
