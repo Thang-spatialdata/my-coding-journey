@@ -7,4 +7,4 @@ Welcome to my Python learning journey.
 - Build programming habits
 - Prepare for GIS, AI and Spatial Data Science
 
-Progress: Day 25/100 🚀
+Progress: Day 26/100 🚀
