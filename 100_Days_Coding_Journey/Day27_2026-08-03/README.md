@@ -1,4 +1,4 @@
-Day 28 - JSON & GeoJSON Basics
+Day 27 - JSON & GeoJSON Basics
 
 📚 What I Learned
 
