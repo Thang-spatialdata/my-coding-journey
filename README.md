@@ -50,32 +50,32 @@ Hi, I'm Nguyen Quyet Thang (Yuu) 👋
 | Day 25 | os Module & File System | ✅ |
 | Day 26 | Read & Write Text Files | ✅ |
 | Day 27 | JSON & GeoJSON Basics | ✅ |
+| Day 28 | Try / Except & Error Handling | ✅ |
 
 ---
 
-📌 Latest Update
+## 📌 Latest Update
 
-Day 27 - JSON & GeoJSON Basics
+### Day 28 – Try / Except & Error Handling
 
-✅ Learned
+#### ✅ Learned
 
-- "json.dumps()" and "json.loads()"
-- "json.dump()" and "json.load()"
-- Writing and reading JSON files
-- Understanding nested JSON structures
-- Processing GeoJSON FeatureCollection data
-- Accessing feature properties and coordinates
-- Filtering invalid GIS features ("None" temperature values)
+- Basic `try/except`
+- Handling `ValueError`
+- Handling `FileNotFoundError`
+- Handling `KeyError`
+- Using `finally`
+- Preventing Python programs from crashing with invalid GIS data
 
-💻 Completed
+#### 💻 Completed
 
-- Convert Python dictionaries to JSON
-- Save and load JSON files
-- Read station coordinates from "stations.json"
-- Mini GIS — Station JSON Reader
-- Boss Challenge — GeoJSON Feature Analyzer
+- Safe temperature parser
+- Handling invalid numeric values
+- Reading multiple JSON station files safely
+- Mini GIS — Safe Temperature Parser
+- Boss Challenge — Robust JSON Station Loader
 
-🚀 Progress: Python Journey — Day 27/100
+🚀 **Progress: Python Journey — Day 28/100**
 
 ---
 
