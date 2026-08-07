@@ -51,31 +51,31 @@ Hi, I'm Nguyen Quyet Thang (Yuu) 👋
 | Day 26 | Read & Write Text Files | ✅ |
 | Day 27 | JSON & GeoJSON Basics | ✅ |
 | Day 28 | Try / Except & Error Handling | ✅ |
-
+| Day 29 | Comprehension & JSON Error Filtering | ✅ |
 ---
 
 ## 📌 Latest Update
 
-### Day 28 – Try / Except & Error Handling
+### Day 29 - Comprehension & JSON Error Filtering
 
 #### ✅ Learned
 
-- Basic `try/except`
-- Handling `ValueError`
-- Handling `FileNotFoundError`
-- Handling `KeyError`
-- Using `finally`
-- Preventing Python programs from crashing with invalid GIS data
+- List comprehension
+- Dict comprehension
+- Filtering with `if` inside comprehension
+- Using `zip()` with dict comprehension
+- Handling `json.JSONDecodeError`
+- Combining `try/except` with comprehension for data cleaning
 
 #### 💻 Completed
 
-- Safe temperature parser
-- Handling invalid numeric values
-- Reading multiple JSON station files safely
-- Mini GIS — Safe Temperature Parser
-- Boss Challenge — Robust JSON Station Loader
+- Temperature adjustment with list comprehension
+- Filtering cold and hot stations
+- Building station-temperature dictionaries
+- Mini GIS — Station Classifier
+- Boss Challenge — JSON Error Filter Pipeline
 
-🚀 **Progress: Python Journey — Day 28/100**
+🚀 **Progress: Python Journey — Day 29/100**
 
 ---
 
