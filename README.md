@@ -52,30 +52,33 @@ Hi, I'm Nguyen Quyet Thang (Yuu) 👋
 | Day 27 | JSON & GeoJSON Basics | ✅ |
 | Day 28 | Try / Except & Error Handling | ✅ |
 | Day 29 | Comprehension & JSON Error Filtering | ✅ |
+| Day 30 | GIS Station Data Pipeline Checkpoint | ✅ |
 ---
 
-## 📌 Latest Update
+## Latest Update
 
-### Day 29 - Comprehension & JSON Error Filtering
+### Day 30 - GIS Station Data Pipeline Checkpoint
 
-#### ✅ Learned
+✅ Learned
 
-- List comprehension
-- Dict comprehension
-- Filtering with `if` inside comprehension
-- Using `zip()` with dict comprehension
-- Handling `json.JSONDecodeError`
-- Combining `try/except` with comprehension for data cleaning
+- Parsing JSON safely with `json.loads()`
+- Handling `JSONDecodeError`, `KeyError`, and `ValueError`
+- Removing duplicate station records using `set()`
+- Cleaning and validating GIS-style station data
+- Calculating distances from a center coordinate with `math.sqrt()`
+- Exporting cleaned GIS records using `json.dump()`
 
-#### 💻 Completed
+💻 Completed
 
-- Temperature adjustment with list comprehension
-- Filtering cold and hot stations
-- Building station-temperature dictionaries
-- Mini GIS — Station Classifier
-- Boss Challenge — JSON Error Filter Pipeline
+- Full GIS Station Data Pipeline
+- JSON validation
+- Duplicate station filtering
+- Missing and invalid temperature handling
+- Distance calculation from a center point
+- Clean report export to `clean_report.json`
+- Final GIS processing report
 
-🚀 **Progress: Python Journey — Day 29/100**
+🚀 Progress: Python Journey — Day 30/100
 
 ---
 
