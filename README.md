@@ -31,6 +31,25 @@ Hi, I'm Nguyen Quyet Thang (Yuu) 👋
 
 ---
 
+## 🛤️ Journey Structure
+
+### Phase 1 — Python Foundations (Day 13–30)
+
+Core Python, data structures, file handling, JSON, error handling, comprehensions, and GIS-style data processing mini projects.
+
+### Phase 2 — Real GIS with Python (Day 31+)
+
+- Spatial data concepts
+- Vector vs Raster
+- Coordinate Reference Systems (CRS)
+- GeoJSON & Shapefile
+- GeoPandas
+- Shapely
+- Rasterio
+- GIS automation projects
+
+---
+
 ## 📅 Daily Progress
 
 | Day | Topic | Status |
@@ -53,33 +72,30 @@ Hi, I'm Nguyen Quyet Thang (Yuu) 👋
 | Day 28 | Try / Except & Error Handling | ✅ |
 | Day 29 | Comprehension & JSON Error Filtering | ✅ |
 | Day 30 | GIS Station Data Pipeline Checkpoint | ✅ |
+Day 31 | Introduction to Spatial Data | ✅ |
+
 ---
 
-## Latest Update
+## 🚀 Latest Update
 
-### Day 30 - GIS Station Data Pipeline Checkpoint
+### Day 31 - Introduction to Spatial Data
 
 ✅ Learned
 
-- Parsing JSON safely with `json.loads()`
-- Handling `JSONDecodeError`, `KeyError`, and `ValueError`
-- Removing duplicate station records using `set()`
-- Cleaning and validating GIS-style station data
-- Calculating distances from a center coordinate with `math.sqrt()`
-- Exporting cleaned GIS records using `json.dump()`
+- Vector vs Raster concepts
+- CRS and WGS84 (EPSG:4326)
+- Shapefile, GeoJSON, and TIFF formats
+- Choosing GeoPandas/Shapely or Rasterio for different data types
 
 💻 Completed
 
-- Full GIS Station Data Pipeline
-- JSON validation
-- Duplicate station filtering
-- Missing and invalid temperature handling
-- Distance calculation from a center point
-- Clean report export to `clean_report.json`
-- Final GIS processing report
+- Vector/Raster classification exercises
+- CRS importance explanation
+- Mini GIS — Vector Layer Simulation
+- Boss Challenge — File Metadata Classifier
 
-🚀 Progress: Python Journey — Day 30/100
+🚀 **Progress: Python Journey — Day 31/100**
 
 ---
 
-⭐ Learning Python + GIS one day at a time 🐍🌍
+⭐ **Learning Python + GIS one day at a time 🐍🌍**
