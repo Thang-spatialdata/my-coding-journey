@@ -73,29 +73,38 @@ Core Python, data structures, file handling, JSON, error handling, comprehension
 | Day 29 | Comprehension & JSON Error Filtering | ✅ |
 | Day 30 | GIS Station Data Pipeline Checkpoint | ✅ |
 Day 31 | Introduction to Spatial Data | ✅ |
+|Day 32 | GeoPandas Basics | ✅ |
 
 ---
 
-## 🚀 Latest Update
+## Latest Update
 
-### Day 31 - Introduction to Spatial Data
+### Day 32 - GeoPandas Basics
 
-✅ Learned
+📚 Learned
 
-- Vector vs Raster concepts
-- CRS and WGS84 (EPSG:4326)
-- Shapefile, GeoJSON, and TIFF formats
-- Choosing GeoPandas/Shapely or Rasterio for different data types
+- Introduction to GeoPandas
+- GeoDataFrame
+- Reading GeoJSON files with `gpd.read_file()`
+- Accessing columns and geometry
+- Filtering geospatial data
+- Iterating through rows with `.iterrows()`
+- Basic statistics with GeoPandas
+- Exporting GeoDataFrames to GeoJSON
 
 💻 Completed
 
-- Vector/Raster classification exercises
-- CRS importance explanation
-- Mini GIS — Vector Layer Simulation
-- Boss Challenge — File Metadata Classifier
+- Station GeoDataFrame Explorer
+- Reading `stations.geojson`
+- Counting stations
+- Displaying station names and coordinates
+- Calculating average temperature
+- Filtering stations with temperature ≥ 30°C
+- Calculating average and maximum temperature
+- Exporting hot stations to `hot_stations.geojson`
 
-🚀 **Progress: Python Journey — Day 31/100**
+🚀 Progress: Python + GIS Journey — Day 32/100
 
 ---
 
-⭐ **Learning Python + GIS one day at a time 🐍🌍**
+⭐ Learning Python + GIS one day at a time 🐍🌍
