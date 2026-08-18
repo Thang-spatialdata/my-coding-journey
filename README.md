@@ -74,36 +74,36 @@ Core Python, data structures, file handling, JSON, error handling, comprehension
 | Day 30 | GIS Station Data Pipeline Checkpoint | ✅ |
 Day 31 | Introduction to Spatial Data | ✅ |
 |Day 32 | GeoPandas Basics | ✅ |
+| Day 33 | Spatial Distance with GeoPandas & Shapely | ✅ |
 
 ---
 
-## Latest Update
+## 📌 Latest Update
 
-### Day 32 - GeoPandas Basics
+### Day 33 - Spatial Distance with GeoPandas & Shapely
 
-📚 Learned
+### ✅ Learned
 
-- Introduction to GeoPandas
-- GeoDataFrame
-- Reading GeoJSON files with `gpd.read_file()`
-- Accessing columns and geometry
-- Filtering geospatial data
-- Iterating through rows with `.iterrows()`
-- Basic statistics with GeoPandas
-- Exporting GeoDataFrames to GeoJSON
+- Creating spatial points with Shapely `Point`
+- Working with longitude and latitude
+- Understanding coordinate order `(x, y)`
+- Creating GeoDataFrames with GeoPandas
+- Working with CRS
+- Using `EPSG:4326`
+- Reprojecting data with `.to_crs()`
+- Working with `EPSG:3857`
+- Calculating spatial distance with `.distance()`
+- Finding the nearest station
 
-💻 Completed
+### 💻 Completed
 
-- Station GeoDataFrame Explorer
-- Reading `stations.geojson`
-- Counting stations
-- Displaying station names and coordinates
-- Calculating average temperature
-- Filtering stations with temperature ≥ 30°C
-- Calculating average and maximum temperature
-- Exporting hot stations to `hot_stations.geojson`
+- Spatial distance practice
+- Hanoi–Hai Phong distance calculation
+- Station distance analysis
+- Distance calculation from a center point
+- Nearest station detection
 
-🚀 Progress: Python + GIS Journey — Day 32/100
+🚀 Progress: Python + GIS Journey — Day 33/100
 
 ---
 
