@@ -75,35 +75,38 @@ Core Python, data structures, file handling, JSON, error handling, comprehension
 Day 31 | Introduction to Spatial Data | ✅ |
 |Day 32 | GeoPandas Basics | ✅ |
 | Day 33 | Spatial Distance with GeoPandas & Shapely | ✅ |
+| Day 34 | NumPy & Rasterio | ✅ |
 
 ---
 
-## 📌 Latest Update
+## 🚀 Latest Update
 
-### Day 33 - Spatial Distance with GeoPandas & Shapely
+### Day 34 - NumPy & Rasterio
 
-### ✅ Learned
+✅ Learned
 
-- Creating spatial points with Shapely `Point`
-- Working with longitude and latitude
-- Understanding coordinate order `(x, y)`
-- Creating GeoDataFrames with GeoPandas
-- Working with CRS
-- Using `EPSG:4326`
-- Reprojecting data with `.to_crs()`
-- Working with `EPSG:3857`
-- Calculating spatial distance with `.distance()`
-- Finding the nearest station
+- NumPy arrays for raster data
+- 2D array operations
+- Raster statistics
+- Boolean filtering
+- `np.where()`
+- Reading raster data with Rasterio
+- Writing GeoTIFF files
+- Raster CRS and transform
+- Creating elevation masks
+- Basic DEM analysis
 
-### 💻 Completed
+💻 Completed
 
-- Spatial distance practice
-- Hanoi–Hai Phong distance calculation
-- Station distance analysis
-- Distance calculation from a center point
-- Nearest station detection
+- NumPy elevation analysis
+- Mean, maximum and minimum elevation calculations
+- Pixel threshold analysis
+- GeoTIFF creation with Rasterio
+- Raster reading and metadata extraction
+- High-elevation zone extraction
+- Exporting a processed raster
 
-🚀 Progress: Python + GIS Journey — Day 33/100
+🚀 Progress: Python + GIS Journey — Day 34/100
 
 ---
 
