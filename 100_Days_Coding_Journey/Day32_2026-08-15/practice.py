@@ -1,20 +1,68 @@
 import geopandas as gpd
-import matplotlib.pyplot as plt
+import json
 
-# Exercise 1 — Read "stations.geojson" and plot using simple .plot()
-print("===== Exercise 1 =====")
+geo_data = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HY01",
+                "temp": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [105.85, 21.03]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HY02",
+                "temp": 33
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [106.68, 20.85]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HY03",
+                "temp": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [106.20, 20.60]
+            }
+        }
+    ]
+}
+
+with open("stations.geojson", "w") as file:
+    json.dump(geo_data, file)
+
+
+# Exercise 1
 gdf = gpd.read_file("stations.geojson")
-gdf.plot()
-plt.title("Exercise 1: Basic Plot")
-plt.show()
+
+print("===== Exercise 1 =====")
+print(gdf.head())
 
 
-# Exercise 2 — Re-plot with column="temp", cmap="coolwarm", legend=True
+# Exercise 2
 print("\n===== Exercise 2 =====")
-gdf.plot(column="temp", cmap="coolwarm", legend=True)
+print("Columns:")
+print(gdf.columns)
+
+print("\nCRS:")
+print(gdf.crs)
 
 
-# Exercise 3 — Add title using plt.title() for Exercise 2 map
+# Exercise 3
+hot_stations = gdf[gdf["temp"] >= 30]
+
 print("\n===== Exercise 3 =====")
-plt.title("Exercise 2 & 3: Station Temperature Map")
-plt.show()
+print("Stations with temperature >= 30°C:")
+print(hot_stations)
