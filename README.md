@@ -1,6 +1,6 @@
 🌍 My Coding Journey
 
-Hi, I'm Nguyen Quyet Thang (Yuu) 👋 
+Hi, I'm Nguyen Quyet Thang (Yuu) 👋             
 🎓 Incoming GIS student at HUMG
 
 ---
