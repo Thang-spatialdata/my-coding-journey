@@ -55,4 +55,3 @@ Tasks
 - Overlay station points colored by temperature
 
 - Export map image to `overlay_map.png` (300 DPI)
-- 
